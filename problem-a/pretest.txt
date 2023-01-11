@@ -1,5 +1,4 @@
-PS C:\Users\willi\Desktop\INFO340> jest problem-a
- FAIL  problem-01-wtom002/problem-a/problem.spec.js (8.981 s)
+ FAIL  problem-a/problem.spec.js (8.981 s)
   Used test-driven development
     × Used Jest to pre-test code, saved in `pretest.txt` (6 ms)
   Source code is valid
@@ -321,4 +320,3 @@ Tests:       17 failed, 1 passed, 18 total
 Snapshots:   0 total
 Time:        9.405 s
 Ran all test suites matching /problem-a/i.
-PS C:\Users\willi\Desktop\INFO340> 
